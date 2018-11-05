@@ -1,0 +1,32 @@
+body {
+    font-family: "Courier New";
+    background-color: #aaaaaa;
+    
+}
+
+h1 {
+    color: #0a350b;
+    background-color: aquamarine;
+    font-family: 'Courier New';
+}
+
+h6 {
+    color: forestgreen;
+    border: 10px solid turquoise;
+}
+
+
+
+img {
+    width: 75%;
+    height: 50%;
+    margin: 100px;
+}
+
+.aboutme {
+    color: blue;
+}
+
+#paul {
+    color: red;
+}
